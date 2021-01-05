@@ -14,7 +14,7 @@
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vue-qr-reader": "^1.6.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "v-calendar": "^0.9.7"
   },
   "devDependencies": {
